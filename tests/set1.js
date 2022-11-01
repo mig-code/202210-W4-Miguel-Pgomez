@@ -39,6 +39,7 @@ const set1 = [
         b: 'oil',
         result: false,
     },
+
 ];
 
 module.exports = set1;
